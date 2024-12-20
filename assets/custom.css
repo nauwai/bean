@@ -65,7 +65,7 @@ header {
 
 h2 {
     margin: 0px;
-    font-family: "LEMON MILK";
+    font-family: "Lemon Milk";
 }
 
 .header-text {
@@ -107,7 +107,7 @@ body {
 
 .profil-text {
     font-size: 20px;
-    font-family: "LEMON MILK";
+    font-family: "Lemon Milk";
     color: white;
     margin-left: 10px;
     margin-right: 30px;
@@ -116,7 +116,7 @@ body {
 
 .lvl-text {
     font-size: 20px;
-    font-family: "LEMON MILK";
+    font-family: "Lemon Milk";
     color: white;
     margin-left: 20px;
     margin-right: 20px;
@@ -154,7 +154,7 @@ body {
 }
 
 .connexion-btn {
-    font-family: "LEMON MILK";
+    font-family: "Lemon Milk";
     background-color: black;
     color: white;
     height: 30px;
@@ -190,7 +190,7 @@ body {
 
 .title-form-text {
     font-size: 30px;
-    font-family: "LEMON MILK";
+    font-family: "Lemon Milk";
     color: black;
     margin-bottom: 0px;
 }
